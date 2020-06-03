@@ -13,9 +13,7 @@ fi
 
 echo "Specified [$FILE]"
 
-
 URL=https://drive.google.com/drive/folders/1igmhP9o8rAB2FpYp02d9y4pAG0ofE5Je?usp=sharing/$FILE.tar.gz
-
 TAR_FILE=./1igmhP9o8rAB2FpYp02d9y4pAG0ofE5Je?usp=sharing/$FILE.tar.gz
 TARGET_DIR=./1igmhP9o8rAB2FpYp02d9y4pAG0ofE5Je?usp=sharing/$FILE/
 wget -N $URL -O $TAR_FILE
