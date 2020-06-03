@@ -1,4 +1,3 @@
-  
 FILE=$1
 
 if [[ $FILE != "cityscapes" && $FILE != "night2day" && $FILE != "edges2handbags" && $FILE != "edges2shoes" && $FILE != "facades" && $FILE != "maps" && $FILE != "pixelat"  ]]; then
