@@ -16,7 +16,3 @@ wget -N $URL -O $TAR_FILE
 mkdir -p $TARGET_DIR
 tar -zxvf $TAR_FILE -C ./1igmhP9o8rAB2FpYp02d9y4pAG0ofE5Je?usp=sharing/
 rm $TAR_FILE
-
-
-
-
